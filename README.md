@@ -25,8 +25,8 @@
 
 ## 🎯 Tentang Proyek
 **MT5 AI Trading Bot** adalah sistem trading otomatis yang menggabungkan kekuatan **Python** dan **Machine Learning** dengan platform **MetaTrader 5**. Bot ini menganalisis data pasar secara real-time, memprediksi pergerakan harga menggunakan model AI, dan mengeksekusi order secara otomatis.
-Telegram : https://t.me/bcpublicchat
 ---
+Telegram : https://t.me/bcpublicchat
 
 ## ⚠️ Disclaimer Penting
 > **🚨 PERINGATAN RISIKO:** Trading forex dan instrumen keuangan memiliki risiko tinggi. Penulis **TIDAK BERTANGGUNG JAWAB** atas kerugian finansial. Selalu gunakan akun **DEMO** untuk pengujian awal. Gunakan bot ini dengan risiko Anda sendiri (*Use at your own risk*).

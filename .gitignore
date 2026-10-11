@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Abaikan data, model, dan file sensitif
+data/
+models/*.pkl
+.env
+__pycache__/
+*.pyc

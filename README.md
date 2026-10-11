@@ -1,50 +1,49 @@
-@"
 <div align="center">
 
 # 🤖 MT5 AI Trading Bot
 
 ### Automated AI-Powered Trading System with MetaTrader 5 Integration
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%20|%203.9%20|%203.10-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![MetaTrader 5](https://img.shields.io/badge/MetaTrader-5-green?logo=meta&logoColor=white)](https://www.metatrader5.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Working-success)]()
+[![License](https://img.shields.io/badge/License-MIT-yellow?logo=github)](LICENSE)
 
 </div>
 
 ---
 
-## 🎯 Tentang Proyek
+## 📋 Daftar Isi
+- [Tentang Proyek](#-tentang-proyek)
+- [⚠️ Disclaimer Penting](#-disclaimer-penting)
+- [Fitur Utama](#-fitur-utama)
+- [Instalasi](#-instalasi)
+- [Konfigurasi](#-konfigurasi)
+- [Cara Penggunaan](#-cara-penggunaan)
+- [Deployment ke VPS](#-deployment-ke-vps-247)
 
-**MT5 AI Trading Bot** adalah sistem trading otomatis yang menggabungkan **Python** dan **Machine Learning** dengan **MetaTrader 5**. Bot ini menganalisis data pasar secara real-time, memprediksi pergerakan harga menggunakan model AI, dan mengeksekusi order secara otomatis.
+---
+
+## 🎯 Tentang Proyek
+**MT5 AI Trading Bot** adalah sistem trading otomatis yang menggabungkan kekuatan **Python** dan **Machine Learning** dengan platform **MetaTrader 5**. Bot ini menganalisis data pasar secara real-time, memprediksi pergerakan harga menggunakan model AI, dan mengeksekusi order secara otomatis.
 
 ---
 
 ## ⚠️ Disclaimer Penting
-
-> **🚨 PERINGATAN RISIKO:** Trading forex memiliki risiko tinggi. Penulis **TIDAK BERTANGGUNG JAWAB** atas kerugian finansial. Selalu gunakan akun **DEMO** untuk pengujian. Gunakan bot ini dengan risiko Anda sendiri.
+> **🚨 PERINGATAN RISIKO:** Trading forex dan instrumen keuangan memiliki risiko tinggi. Penulis **TIDAK BERTANGGUNG JAWAB** atas kerugian finansial. Selalu gunakan akun **DEMO** untuk pengujian awal. Gunakan bot ini dengan risiko Anda sendiri (*Use at your own risk*).
 
 ---
 
 ## ✨ Fitur Utama
-
-- 🔌 **Integrasi MT5 Penuh** via official Python API
-- 🧠 **Machine Learning** menggunakan Random Forest Classifier
-- 📊 **Analisis Teknikal Otomatis** (SMA, RSI, MACD) via ``pandas-ta``
-- 🔄 **Loop Trading 24/7** siap deploy ke Windows VPS
-- 🛡️ **Manajemen Risiko** dengan SL/TP otomatis
-
----
-
-## 📦 Prasyarat
-
-- **Windows 10/11** (MT5 Python API hanya untuk Windows)
-- **Python 3.12** ([Download](https://www.python.org/downloads/release/python-31210/))
-- **MetaTrader 5** terinstal dan login ke akun demo
-- **Git** ([Download](https://git-scm.com/download/win))
+- 🔌 **Integrasi MT5 Penuh** via official Python API.
+- 🧠 **Machine Learning** menggunakan Random Forest Classifier.
+- 📊 **Analisis Teknikal Otomatis** (SMA, RSI, MACD, Bollinger Bands) via `pandas-ta`.
+- 🔄 **Loop Trading 24/7** yang siap di-deploy ke Windows VPS.
 
 ---
 
 ## 🚀 Instalasi
 
 ### 1. Clone Repository
+```bash
+git clone https://github.com/blackcubecode/mt5-ai-bot.git
+cd mt5-ai-trading-bot

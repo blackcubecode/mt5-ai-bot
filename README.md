@@ -38,8 +38,7 @@
 
 ## 🎯 Tentang Proyek
 
-**MT5 AI Trading Bot** adalah sistem trading otomatis yang menggabungkan kekuatan **Python** dan **Machine Learning** dengan platform **MetaTrader 5**. Bot ini menganalisis data pasar secara real-time, memprediksi pergerakan harga menggunakan model AI (Random Forest), dan mengeksekusi order secara otomatis dengan manajemen risiko (Stop Loss & Take Profit) yang terintegrasi.
-
+**MT5 AI Trading Bot** adalah sistem trading otomatis yang menggabungkan kekuatan **Python** dan **Machine Learning** dengan platform **MetaTrader 5**. Bot ini menganalisis data pasar secara real-time, memprediksi pergerakan harga menggunakan model AI (Random Forest), dan mengeksekusi order secara otomatis dengan manajemen risiko (Stop Loss & Take Profit) yang terintegrasi. Black Cube Code Developer | Free Public Discussion https://t.me/bcpublicchat | Bot AI Trading https://t.me/blackcubecodeAI_Bot | Daily Signal XAUUSD https://t.me/blackcubecode
 ---
 
 ## ✨ Fitur Utama
@@ -49,10 +48,6 @@
 - 📊 **Analisis Teknikal Otomatis** (SMA, RSI, MACD) yang dihitung secara real-time via `pandas-ta`.
 - 🔄 **Loop Trading 24/7** yang siap di-deploy ke Windows VPS.
 - 🛡️ **Manajemen Risiko** dengan perhitungan Stop Loss dan Take Profit otomatis per trade.
-Black Cube Code Developer
-Free Public Discussion https://t.me/bcpublicchat
-Bot AI Trading https://t.me/blackcubecodeAI_Bot
-Daily Signal XAUUSD https://t.me/blackcubecode
 ---
 
 ## 📦 Prasyarat

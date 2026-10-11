@@ -1,6 +1,10 @@
 <div align="center">
 
 # 🤖 MT5 AI Trading Bot
+# By Black Cube Code Developer
+# Free Public Discussion https://t.me/bcpublicchat
+# Bot AI Trading https://t.me/blackcubecodeAI_Bot
+# Daily Signal XAUUSD https://t.me/blackcubecode
 
 ### Automated AI-Powered Trading System with MetaTrader 5 Integration
 

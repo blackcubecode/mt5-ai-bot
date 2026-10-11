@@ -1,4 +1,3 @@
-@"
 MetaTrader5
 pandas
 numpy
@@ -6,4 +5,3 @@ scikit-learn
 pandas-ta
 joblib
 python-dotenv
-"@ | Out-File -FilePath requirements.txt -Encoding utf8

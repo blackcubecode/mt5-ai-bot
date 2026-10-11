@@ -1,11 +1,6 @@
 <div align="center">
 
 # 🤖 MT5 AI Trading Bot
-# By Black Cube Code Developer
-# Free Public Discussion https://t.me/bcpublicchat
-# Bot AI Trading https://t.me/blackcubecodeAI_Bot
-# Daily Signal XAUUSD https://t.me/blackcubecode
-
 ### Automated AI-Powered Trading System with MetaTrader 5 Integration
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -54,7 +49,10 @@
 - 📊 **Analisis Teknikal Otomatis** (SMA, RSI, MACD) yang dihitung secara real-time via `pandas-ta`.
 - 🔄 **Loop Trading 24/7** yang siap di-deploy ke Windows VPS.
 - 🛡️ **Manajemen Risiko** dengan perhitungan Stop Loss dan Take Profit otomatis per trade.
-
+# Black Cube Code Developer
+# Free Public Discussion https://t.me/bcpublicchat
+# Bot AI Trading https://t.me/blackcubecodeAI_Bot
+# Daily Signal XAUUSD https://t.me/blackcubecode
 ---
 
 ## 📦 Prasyarat

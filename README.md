@@ -49,10 +49,10 @@
 - 📊 **Analisis Teknikal Otomatis** (SMA, RSI, MACD) yang dihitung secara real-time via `pandas-ta`.
 - 🔄 **Loop Trading 24/7** yang siap di-deploy ke Windows VPS.
 - 🛡️ **Manajemen Risiko** dengan perhitungan Stop Loss dan Take Profit otomatis per trade.
-# Black Cube Code Developer
-# Free Public Discussion https://t.me/bcpublicchat
-# Bot AI Trading https://t.me/blackcubecodeAI_Bot
-# Daily Signal XAUUSD https://t.me/blackcubecode
+Black Cube Code Developer
+Free Public Discussion https://t.me/bcpublicchat
+Bot AI Trading https://t.me/blackcubecodeAI_Bot
+Daily Signal XAUUSD https://t.me/blackcubecode
 ---
 
 ## 📦 Prasyarat
